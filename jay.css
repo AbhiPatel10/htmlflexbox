@@ -1,0 +1,25 @@
+.container{
+    height: 345px auto;
+    /* width: 100%; */
+    border: 10px solid black;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    /* margin-left: 200px; */
+    margin: 100px;
+}
+.item{
+    background-color: rgb(89, 71, 255);
+    border: 2px solid greenyellow;
+    margin: 13px 20px;
+    padding:9px 10px;
+    width: 100px;
+    height: 100px;
+}
+#item-1{
+    background-color:green;
+    border: 10px solid red;
+    margin-top: 50px;
+    padding:50px;
+}
